@@ -1,0 +1,15 @@
+
+Idea:
+
+A chatbot
+
+Platform: Initially messenger and then later whatsapp
+Stack: TBD? 
+
+Basic Product: Chatbot that asks, logs information about food intake. Puts this into a sheet which the user can view. 
+
+Visualisation from the sheet and reports to the user based on a daily/weekly/monthly basis.
+Calculation of macros and report on that. Allow users to set limits.
+Integrate fitness routines into this? Use this to remind yourself of workouts etc.
+
+
